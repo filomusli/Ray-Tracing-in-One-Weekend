@@ -18,3 +18,5 @@ void write_color(std::ostream& out, const color& pixel_color) {
 
 	return out << rbyte << ' ' << gbyte << ' ' << bbyte << "\n";
 }
+
+#endif
