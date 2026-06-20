@@ -1,4 +1,4 @@
-﻿#include "Ray Tracing in One Weekend.h"
+﻿#include "iostream"
 
 int main()
 {
