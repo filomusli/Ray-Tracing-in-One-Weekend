@@ -1,0 +1,12 @@
+To build (slower version):
+cmake --build build
+
+To run:
+& ".\build\Ray Tracing in One Weekend\Debug\CMakeTarget.exe" > image.ppm
+
+
+To build (faster version):
+cmake --build build --config release
+
+To run (faster version):
+& ".\build\Ray Tracing in One Weekend\Release\CMakeTarget.exe" > image.ppm
