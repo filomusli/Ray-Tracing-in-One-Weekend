@@ -60,5 +60,4 @@ int main()
 	}
 
 	std::clog << "\rDone.                   \n";
-	
 }
