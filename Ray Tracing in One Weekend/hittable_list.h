@@ -1,5 +1,5 @@
 #ifndef HITTABLE_LIST_H
-#define HITTABLE_LSIT_H
+#define HITTABLE_LIST_H
 
 #include "hittable.h"
 
